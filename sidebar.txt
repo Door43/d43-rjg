@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rjg:home|Door43 (rjg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rjg|d43-rjg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rjg/archive/master.zip|d43-rjg.zip]]
+
+**Recent Changes**
+{{changes>ns = rjg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rjg|Ethnologue data]]
+
